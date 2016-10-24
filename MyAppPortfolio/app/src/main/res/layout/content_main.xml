@@ -29,37 +29,43 @@
             android:layout_height="wrap_content"
             android:id="@+id/Btn1"
             android:text="POPULAR MOVIES"
-            android:textSize="15dp"/>
+            android:textSize="15dp"
+            android:onClick="btn1"/>
         <Button
             android:layout_width="230dp"
             android:layout_height="wrap_content"
             android:id="@+id/Btn2"
             android:text="STOCK HAWK"
-            android:textSize="15dp"/>
+            android:textSize="15dp"
+            android:onClick="btn2"/>
         <Button
             android:layout_width="230dp"
             android:layout_height="wrap_content"
             android:id="@+id/Btn3"
             android:text="BUILD IT BIGGER"
-            android:textSize="15dp"/>
+            android:textSize="15dp"
+            android:onClick="btn3"/>
         <Button
             android:layout_width="230dp"
             android:layout_height="wrap_content"
             android:id="@+id/Btn4"
             android:text="MAKE YOUR APP MATERIAL"
-            android:textSize="15dp"/>
+            android:textSize="15dp"
+            android:onClick="btn4"/>
         <Button
             android:layout_width="230dp"
             android:layout_height="wrap_content"
             android:id="@+id/Btn5"
             android:text="GO UBIQUITOUS"
-            android:textSize="15dp"/>
+            android:textSize="15dp"
+            android:onClick="btn5"/>
         <Button
             android:layout_width="230dp"
             android:layout_height="wrap_content"
             android:id="@+id/Btn6"
             android:text="CAPSTONE"
-            android:textSize="15dp"/>
+            android:textSize="15dp"
+            android:onClick="btn6"/>
 
 
     </LinearLayout>
