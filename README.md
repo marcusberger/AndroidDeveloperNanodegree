@@ -1,6 +1,7 @@
 # Android Developer Nanodegree
 
 - [x] My App Portfolio
+- [ ] Sushine
 - [ ]  Popular Movies
 - [ ] Stock Hawk
 - [ ] Build it Bigger
